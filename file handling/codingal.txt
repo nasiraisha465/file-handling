@@ -1,0 +1,9 @@
+file in write mode ....hi! I am a penguin.I am 1 yr. old
+ File in append mode .....Hi! I am a penguin. I am 1 yr. old
+ k
+ hello
+ I
+ hello
+ j
+ oi
+ 
